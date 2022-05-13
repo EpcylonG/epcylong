@@ -1,6 +1,6 @@
 <h1 align="center">const EpcylonG = developer() </h1>
 
-![App Screenshot](https://gyazo.com/e6fe26bf0195a9bbae0028b5f2ea5c23)
+![App Screenshot](./CodeCpp.png)
 
 <h2>🛠 Skills</h2>
 
@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="andorid" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/>
 </p>
   
 **Backend:**
@@ -22,17 +22,17 @@
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original-wordmark.svg" alt="cpp" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/373526/cpp.svg" alt="cpp" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 </p>
 
 <h2>💻 Technologies</h2>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vs/vs-original-wordmark.svg" alt="visual studio" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/354520/visual-studio.svg" alt="visual studio" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual studio code" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ue5/ue5-original.svg" alt="unreal engine" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/intelliJ/intelliJ-icon.svg" alt="intelliJ idea" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/342328/unreal-engine.svg" alt="unreal engine" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/353906/intellij-idea.svg" alt="intelliJ idea" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xcode" width="40" height="40"/>
 </p>
 
