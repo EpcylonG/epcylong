@@ -2,7 +2,7 @@
 
 ![App Screenshot](https://gyazo.com/e6fe26bf0195a9bbae0028b5f2ea5c23)
 
-<h2>## 🛠 Skills</h2>
+<h2>🛠 Skills</h2>
 
 **Frontend:**
 <p align="left">
@@ -18,22 +18,22 @@
 **Backend:**
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original-wordmark.svg" alt="php" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg" alt="node" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original-wordmark.svg" alt="cpp" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original-wordmark.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 </p>
 
-<h2>## Technologies</h2>
+<h2>💻 Technologies</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vs/vs-original-wordmark.svg" alt="visual studio" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vsc/vsc-original-wordmark.svg" alt="visual studio code" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual studio code" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ue5/ue5-original.svg" alt="unreal engine" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/intelliJ/intelliJ-icon.svg" alt="intelliJ idea" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original-wordmark.svg" alt="xcode" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xcode" width="40" height="40"/>
 </p>
 
 <a href="https://github.com/EpcylonG/github-readme-stats">
